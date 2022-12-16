@@ -71,11 +71,11 @@ Hình 08. Chạy lệnh "ng s" bên User và mở localhost cấp như khoanh đ
 Hình 09. Mở dường dẫn localhost (User) trong VS Code khi chạy thành công
 
 
-Tài khoản User1:
+Tài khoản User:
 
-Tên đăng nhập: user1
+Tên đăng nhập: Viet Doan
 
-password: 1234
+password: 123
 
 
 Tài khoản Admin:
