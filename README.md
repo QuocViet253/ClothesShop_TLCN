@@ -41,27 +41,27 @@ Hình 04. Bật Apache và MySQL trong XAMPP
 
 ![image](https://user-images.githubusercontent.com/113351997/208159108-0a421f99-3fa4-4c25-8e6c-8605d3614efb.png)
 
-undefined
+
 Hình 05. Chạy lệnh ng s bên Admin
 
 ![image](https://user-images.githubusercontent.com/113351997/208159125-c9d263c4-5ed3-4395-adbe-2a4a30288ea4.png)
 
-undefined
+
 Hình 06. Mở localhost 4200 theo đường link khoanh đỏ
 
 ![image](https://user-images.githubusercontent.com/113351997/208159142-86bae1dc-a823-493b-857e-a33d2c749f5a.png)
 
-undefined
+
 Hình 07. Mở đường dẫn localhost (Admin) trong VS Code khi chạy thành công
 
 ![image](https://user-images.githubusercontent.com/113351997/208159258-f4486668-0fa7-48b8-a6f4-f10127d1453e.png)
 
-undefined
+
 Hình 08. Chạy lệnh "ng s" bên User và mở localhost cấp như khoanh đỏ
 
 ![image](https://user-images.githubusercontent.com/113351997/208159283-2575d7f2-5852-4388-9a21-1b9c2a6bfd3d.png)
 
-undefined
+
 Hình 09. Mở dường dẫn localhost (User) trong VS Code khi chạy thành công
 
 
