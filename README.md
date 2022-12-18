@@ -16,6 +16,24 @@ SVTH:
 
 Trần Võ Hoàng Lâm    19110032
 
+Link web Admin: http://54.255.229.41:8081/ 
+
+Link web Client: http://54.255.229.41:8082/#/
+
+
+Tài khoản User:
+
+Tên đăng nhập: Viet Doan
+
+password: 123
+
+
+Tài khoản Admin:
+
+Tên đăng nhập: admin
+
+password: 1234
+
 Hướng dẫn sử dụng:
 
 Bước 1: Chọn ổ đĩa hoặc thư mục mà mình muốn lưu đồ án, sao đó mở Git bash lên, clone đường dẫn: https://github.com/QuocViet253/ClothesShop_TLCN.git về.
@@ -34,7 +52,9 @@ npm i
 
 để tải các thư viện cần thiết về sau đó nhập lệnh:
 
-ng s lần lượt cho từng cái.
+ng s 
+
+lần lượt cho từng cái.
 
 ![image](https://user-images.githubusercontent.com/113351997/208159063-0aca98cb-f51c-4ae3-b698-30d08d4fe8d2.png)
  
@@ -72,17 +92,3 @@ Hình 08. Chạy lệnh "ng s" bên User và mở localhost cấp như khoanh đ
 
 
 Hình 09. Mở dường dẫn localhost (User) trong VS Code khi chạy thành công
-
-
-Tài khoản User:
-
-Tên đăng nhập: Viet Doan
-
-password: 123
-
-
-Tài khoản Admin:
-
-Tên đăng nhập: admin
-
-password: 1234
