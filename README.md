@@ -28,7 +28,7 @@ Hình 01. Copy đường link trên Github
 
 Hình 02. Clone dự án về
 
-Bước 2:  Mở folder Backend bằng IntelliJ sau đó nhấn run. Bật XAMPP, nhấn start Apache và MySQL. Sau đó mở folder Admin (Giao diện quản trị viên) và ClothesShop_Client (Giao diện người dùng) bằng VS Code lên, mở terminal của mỗi cái nhập lệnh:
+Bước 2: :  Bật XAMPP, nhấn start Apache và MySQL. Sau đó mở folder Backend bằng IntelliJ sau đó nhấn run. Tiếp theo mở folder Admin (Giao diện quản trị viên) và ClothesShop_Client (Giao diện người dùng) bằng VS Code lên, mở terminal của mỗi cái nhập lệnh:
 
 npm i 
 
@@ -36,14 +36,17 @@ npm i
 
 ng s lần lượt cho từng cái.
 
+![image](https://user-images.githubusercontent.com/113351997/208159063-0aca98cb-f51c-4ae3-b698-30d08d4fe8d2.png)
+ 
+Hình 03. Bật Apache và MySQL trong XAMPP
+
+
 ![image](https://user-images.githubusercontent.com/113351997/208159024-f12f6d6c-8d7a-40d0-bc06-597781cb9f63.png)
 
 
-Hình 03. Chạy Backend
+Hình 04. Chạy Backend
 
-![image](https://user-images.githubusercontent.com/113351997/208159063-0aca98cb-f51c-4ae3-b698-30d08d4fe8d2.png)
- 
-Hình 04. Bật Apache và MySQL trong XAMPP
+
 
 ![image](https://user-images.githubusercontent.com/113351997/208159108-0a421f99-3fa4-4c25-8e6c-8605d3614efb.png)
 
