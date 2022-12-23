@@ -25,7 +25,7 @@ Tài khoản User:
 
 Tên đăng nhập: Viet Doan
 
-password: 123
+password: mkrandom55
 
 
 Tài khoản Admin:
