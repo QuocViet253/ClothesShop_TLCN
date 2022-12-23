@@ -59,6 +59,7 @@ export class LoginComponent implements OnInit {
           this.appService.login();
           this.toastr.success('Đăng nhập thành công !');
           setTimeout(window.location.reload.bind(window.location), 250);
+          this.router.navigate(['']);
         } else {
           this.toastr.warning('Thông tin đăng nhập không chính xác !');
           localStorage.removeItem('UserInfo');
